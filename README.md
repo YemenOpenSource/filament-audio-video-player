@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
+
 # Filament Audio Video Player
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/aymanalhattami/filament-audio-video-player.svg?style=flat-square)](https://packagist.org/packages/aymanalhattami/filament-audio-video-player)
